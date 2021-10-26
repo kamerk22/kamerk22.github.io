@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "author": "kamerk22",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "next": "^11.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "react-masonry-css": "^1.0.16",
+    "react-reveal": "^1.2.2",
+    "react-visibility-sensor": "^5.1.1",
+    "styled-components": "^5.3.3"
+  }
+}
